@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0645941B1BDD8070003B9071 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0645941A1BDD8070003B9071 /* Images.xcassets */; settings = {ASSET_TAGS = (); }; };
 		3A2BBF5A1BCDDAC200B23285 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2BBF591BCDDAC200B23285 /* AppDelegate.swift */; };
 		3A2BBF5C1BCDDAC200B23285 /* HangmanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2BBF5B1BCDDAC200B23285 /* HangmanViewController.swift */; };
 		3A2BBF5F1BCDDAC200B23285 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A2BBF5D1BCDDAC200B23285 /* Main.storyboard */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0645941A1BDD8070003B9071 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		3A2BBF561BCDDAC200B23285 /* Hangman.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hangman.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A2BBF591BCDDAC200B23285 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3A2BBF5B1BCDDAC200B23285 /* HangmanViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HangmanViewController.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				3A2BBF591BCDDAC200B23285 /* AppDelegate.swift */,
 				3A2BBF5D1BCDDAC200B23285 /* Main.storyboard */,
 				3A2BBF601BCDDAC200B23285 /* Assets.xcassets */,
+				0645941A1BDD8070003B9071 /* Images.xcassets */,
 				3A2BBF621BCDDAC200B23285 /* LaunchScreen.storyboard */,
 				3A2BBF651BCDDAC200B23285 /* Info.plist */,
 			);
@@ -155,6 +158,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3A2BBF6F1BCDDEBB00B23285 /* phrases.plist in Resources */,
+				0645941B1BDD8070003B9071 /* Images.xcassets in Resources */,
 				3A2BBF641BCDDAC200B23285 /* LaunchScreen.storyboard in Resources */,
 				3A2BBF611BCDDAC200B23285 /* Assets.xcassets in Resources */,
 				3A2BBF5F1BCDDAC200B23285 /* Main.storyboard in Resources */,
